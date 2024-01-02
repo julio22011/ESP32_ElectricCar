@@ -1,8 +1,7 @@
-This library enables to control an electric car easily.
-
+This library enables to control a basic electric car easily.
 
 Hardware:
-- ESP32
-- Motor
-- Motor driver
-- Servo
+- ESP32 (or others microcontollers, only tested with ESP32).
+- Motor.
+- Motor driver (for exaple: L298N)
+- Servo.
